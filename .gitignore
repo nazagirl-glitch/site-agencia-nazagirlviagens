@@ -1,0 +1,12 @@
+# Arquivos temporários do Sistema Operacional
+desktop.ini
+thumbs.db
+.DS_Store
+
+# Pastas de desenvolvimento/backup (fora de produção)
+/IMG/
+/Template-exemplo/
+
+# Pastas e arquivos do assistente de código
+.gemini/
+*.log
